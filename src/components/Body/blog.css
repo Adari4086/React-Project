@@ -1,0 +1,41 @@
+.us{
+    background-image:url('../Images/aboutus.webp');
+    width:1850px;
+    height:420px;
+}
+.span1{
+   
+    display: block;
+    width:100px;
+    color: #fff;
+    background: #FF8B23;
+    padding: 5px 5px;
+    border-radius: 5px;
+   position:relative;
+   bottom:50px;
+   left:30px;
+}
+.hover li{
+    cursor:pointer;
+    
+
+}
+.pad li{
+    padding:10px;
+    cursor:pointer;
+
+}
+.hover :hover{
+    color:red;
+    
+}
+ .trend{
+   
+    width:100px;
+    height:25px;
+    background-color:black;
+    color:white;
+    padding-left:10px;
+    margin-right:20px;
+    cursor:pointer;
+} 

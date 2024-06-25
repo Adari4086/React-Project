@@ -1,0 +1,194 @@
+
+.main{
+    width:100%;
+    height:600px;
+}
+.heading1{
+  background-image:url("https://wallpapercave.com/wp/wp2557357.jpg");
+  background-size: cover;
+  width: 100%;
+  height: 100vh;
+}
+.defend{
+    margin-left:200px;
+   padding-top:70px;
+}
+.defend h1{
+    color:white;
+    position:relative;
+    left:700px;
+    font-size:80px;
+    top:100px;
+}
+.defend h6{
+    position:relative;
+    left:706px;
+    color:#FF8B23;
+    top:105px;
+}
+.btn1{
+    position:relative;
+    left:706px;
+    top:150px;
+    padding:10px ;
+    background-color: white;
+    border:none;
+}
+.btn1:hover{
+    background-color:#FF8B23;
+    color:white;
+
+
+}
+.Holding{
+    background-color:#FFF7EF ;
+    padding: 8%;
+
+}
+.new{
+    
+    width:400px;
+    height:300px;
+    position:relative;
+    right:20px;
+    transition:1.5;
+}
+.new:hover{
+  transform:scale(2deg);
+}
+.btn2{
+    padding:5px 30px;
+    background-color: #FF8B23;
+    color:white;
+    border:none;
+}
+.col2{
+    position:relative;
+    top:30px;
+}
+.left{
+   background-image: url("https://media.istockphoto.com/id/467634080/photo/basketball-game.jpg?s=612x612&w=0&k=20&c=8BGyRa8U4AXoqstjPXA5t8ukZs6EEUn0PhQsmKOh8Zw=");
+   width:570px;
+   height:400px;
+   margin-left:50px;
+}
+.Right{
+    background-image: url("https://images.pond5.com/basketball-players-big-professional-arena-footage-118846163_iconl.jpeg");
+    background-size:cover;
+    width:570px;
+   height:400px;
+   margin-left:40px;
+}
+.border{
+    width:261px;
+    height:250px;
+    background-color:#454545;
+    margin-left:270px;
+    margin-top:20px;
+    color:white;
+    box-shadow: 0px 0px 0px 10px rgba(255, 255, 255, 0.5);
+    border:none;
+}
+.line{
+    border-right:3px solid white;
+    margin-right:200px;
+    margin-top:30px;
+
+}
+.line h5{
+    margin-left:15px;
+
+}
+.line ol{
+    display:flex;
+    
+    
+}
+ol li{
+    list-style-type:none;
+    position:relative;
+    left:60px;
+    bottom:55px;
+}
+.btn3{
+    position:relative;
+    bottom:30px;
+    left:20px;
+    padding:10px 40px;
+    background-color:#FF8B23;
+    color:white;
+    border:none;
+}
+
+.carouselB{
+    background: url("../Images/background.jpg");
+    height:800px;
+    width:100%;
+    background-size: cover;
+    
+}
+.caro1 , .video{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Caro{
+    width:30%;
+    position:relative;
+    left:370px;
+    top:100px;
+}
+.caro1{
+    width:100%;
+    display:flex;
+    margin-top:150px;
+}
+.caro2 img{
+    padding-right:10px;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+}                                                                                                                                           
+.btn4{                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+    padding:10px 40px;
+    background-color:#FF8B23;
+    color:white;
+    border:none;
+}
+.Couch{
+    width:500px;
+    height:400px;
+    position:relative;
+    top:15px;
+    padding:12%;
+    background-color:#FFF7EF ;
+}
+.blog{
+    width:370px;
+    height:350px;
+}
+.Blog{
+    background-color:#FFF7EF;
+}
+.Register{
+    background-color:#DE2529;
+    color:white;
+    padding:80px 40px;
+}
+.btn6{
+    padding:10px 40px;
+    border:none;
+    color:black;
+    margin-top: 20px;
+    border-radius:5px;
+}
+
+.girl1{
+    height:400px;
+    width:810px;
+  
+}
+.Body{
+    width:100%;
+    height:100%;
+    padding:0px;
+    margin:0px;
+    overflow-x:hidden;
+}

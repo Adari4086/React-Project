@@ -1,0 +1,35 @@
+
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+  font-family:'poppin',sans-serif ;
+}
+header {
+  position:fixed;
+  top:0;
+  left:0;
+  width:100%;
+  padding:20px 120px;
+  display:flex;
+  justify-content: space-between;
+  align-items: center;
+  z-index:100;
+  background: white;
+}
+.logo {
+  text-decoration:none;
+  color:black;
+  font-size:1.5rem;
+  font-weight: 600;
+}
+.Link1{
+  text-decoration: none;
+  color:black;
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin-right: 35px;
+}
+.Link1:hover{
+  color:orange;
+}
